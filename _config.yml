@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "UNIHARMONICS"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
+description:	       "At UNIHARMONICS, our mission is to harmonize and elevate lives through the transformative power of light and sound. Specializing in the Energy Sciences of Reiki, Sonic/Sound Healing, and other cutting-edge tools like voice analysis,crystals and Chakra work. Through these we pioneer personalized solutions to restore balance by analyzing and harmonizing frequencies within the body."
 author:              "S Soular"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
