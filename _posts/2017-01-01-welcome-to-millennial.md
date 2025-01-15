@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Welcome to Uniharmonics"
+
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+At UNIHARMONICS, our mission is to harmonize and elevate lives through the transformative power of light and sound. Specializing in the Energy Sciences of Reiki, Sonic/Sound Healing, and other cutting-edge tools like voice analysis,crystals and Chakra work. Through these we pioneer personalized solutions to restore balance by analyzing and harmonizing frequencies within the body.
 
 ## Getting Started
 
